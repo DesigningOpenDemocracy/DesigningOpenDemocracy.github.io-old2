@@ -7,6 +7,10 @@ fa-icon: comments
 
 # Resources
 
+## Youtube Channel
+
+We have a youtube channel where we post any videos recordings of meetings and events https://www.youtube.com/channel/UCqIo0VC_zHyPjzNKIafGJpg/featured
+
 ## Groups of Interest in Australia
 
 If you need any assistance in locating democracy experts like cooperatives or voting security... then send us an email at [contact@designingopendemocracy.com](mailto:contact+website@designingopendemocracy.com?subject=GroupsOfInterest).
