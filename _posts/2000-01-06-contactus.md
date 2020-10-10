@@ -14,7 +14,7 @@ If you have any questions directly related to us that cannot be answered in our 
 
 ## The Team
 
-The core organising team members is **Brian Khuu**, **Simon Gnieslaw**, **Nick Merange** and **Alexar Pendashteh**.
+The core organising team members is **Brian Khuu**, **Nick Merange** and **Alexar Pendashteh**.
 
 We also have members from various political parties and companies who we often consult for specific updates about various democracy related projects of interests. As well as to collaborate on how to best assist them in achieving a better democracy.
 
@@ -41,6 +41,9 @@ Meeting Organiser
 * Email: [alexarpendashteh@designingopendemocracy.com](mailto:contact+website@designingopendemocracy.com?subject=Website)
 
 
+### Usmaan
+
+Project Manager
 
 
 <!--
