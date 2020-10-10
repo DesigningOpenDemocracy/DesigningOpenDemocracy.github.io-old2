@@ -7,6 +7,10 @@ fa-icon: comments
 
 # Resources
 
+## Wiki
+
+We have a wiki where you can contribute information of various democracy projects of note [https://wiki.designingopendemocracy.com](https://wiki.designingopendemocracy.com)
+
 ## Youtube Channel
 
 We have a youtube channel where we post any videos recordings of meetings and events [Click here to browse our video list at YouTube](https://www.youtube.com/channel/UCqIo0VC_zHyPjzNKIafGJpg/featured)
