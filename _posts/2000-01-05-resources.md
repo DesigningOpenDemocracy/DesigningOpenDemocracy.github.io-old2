@@ -9,7 +9,7 @@ fa-icon: comments
 
 ## Youtube Channel
 
-We have a youtube channel where we post any videos recordings of meetings and events https://www.youtube.com/channel/UCqIo0VC_zHyPjzNKIafGJpg/featured
+We have a youtube channel where we post any videos recordings of meetings and events [Click here to browse our video list at YouTube](https://www.youtube.com/channel/UCqIo0VC_zHyPjzNKIafGJpg/featured)
 
 ## Groups of Interest in Australia
 
