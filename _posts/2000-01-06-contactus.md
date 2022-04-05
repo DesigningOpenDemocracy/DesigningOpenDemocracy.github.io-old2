@@ -2,7 +2,7 @@
 title: "Contact Us"
 bg: green
 color: black
-fa-icon: check-square-o
+fa-icon: microphone
 ---
 
 # Contact Us
